@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="Program.cs" />
+    <Compile Remove="Source03_02.cs" />
   </ItemGroup>
 
 </Project>
