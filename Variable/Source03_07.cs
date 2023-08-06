@@ -7,5 +7,9 @@ class MainClass
         bool result;
         int num1, num2;
 
+        num1 = 3;
+        num2 = 5;
+
+
     }
 }
