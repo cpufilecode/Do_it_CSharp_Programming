@@ -6,5 +6,7 @@ class MainClass
     {
         int i = 1;
 
+        while(i<11)
+            Console.WriteLine(i++);
     }
 }
