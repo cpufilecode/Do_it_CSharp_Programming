@@ -25,7 +25,7 @@ class MainClass
         result = num1 == num1;
         Console.WriteLine(result);
 
-        result = num1 != num2;
+        result = num1 != num1;
         Console.WriteLine(result);
     }
 }
