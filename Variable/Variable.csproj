@@ -11,6 +11,7 @@
     <Compile Remove="Program.cs" />
     <Compile Remove="Source03_01.cs" />
     <Compile Remove="Source03_02.cs" />
+    <Compile Remove="Source03_03.cs" />
   </ItemGroup>
 
 </Project>
