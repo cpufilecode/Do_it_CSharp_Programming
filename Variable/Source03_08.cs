@@ -11,5 +11,8 @@ class MainClass
 
         Console.WriteLine(A && A);
         Console.WriteLine(A && B);
+
+        Console.WriteLine(A || B);
+        Console.WriteLine(B || B);
     }
 }
