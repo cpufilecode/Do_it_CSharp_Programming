@@ -15,6 +15,7 @@
     <Compile Remove="Source03_04.cs" />
     <Compile Remove="Source03_06.cs" />
     <Compile Remove="Source03_07.cs" />
+    <Compile Remove="Source03_08.cs" />
   </ItemGroup>
 
 </Project>
