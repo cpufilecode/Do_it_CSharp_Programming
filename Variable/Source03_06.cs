@@ -4,7 +4,7 @@ class MainClass
 {
     public static void Main(string[] args)
     {
-        int num = 0;
+        int num = 10;
         Console.WriteLine(num++);
         Console.WriteLine(num);
         Console.WriteLine(--num);
