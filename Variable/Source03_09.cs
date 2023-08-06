@@ -10,7 +10,7 @@ class MainClass
         if (score > 80)
             if (score <= 100)
                 Console.WriteLine("A");
-        if(score >80 && score <=100)
+        if(score > 80 && score <=100)
             Console.WriteLine("A");
     }
 }
