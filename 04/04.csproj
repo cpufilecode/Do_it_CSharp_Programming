@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <Compile Remove="04_01.cs" />
+    <Compile Remove="04_02.cs" />
+    <Compile Remove="04_03.cs" />
   </ItemGroup>
 
 </Project>
