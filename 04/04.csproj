@@ -19,8 +19,4 @@
     <Compile Remove="04_08.cs" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="04_08.cs" />
-  </ItemGroup>
-
 </Project>
