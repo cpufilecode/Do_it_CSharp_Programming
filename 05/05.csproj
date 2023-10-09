@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="05_01.cs" />
+    <Compile Remove="05_02.cs" />
+    <Compile Remove="05_03.cs" />
+  </ItemGroup>
+
 </Project>
