@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -12,6 +12,7 @@
     <Compile Remove="05_01.cs" />
     <Compile Remove="05_02.cs" />
     <Compile Remove="05_03.cs" />
+    <Compile Remove="05_04.cs" />
   </ItemGroup>
 
 </Project>
