@@ -17,6 +17,8 @@
     <Compile Remove="05_06.cs" />
     <Compile Remove="05_07.cs" />
     <Compile Remove="05_08.cs" />
+    <Compile Remove="05_09.cs" />
+    <Compile Remove="05_10.cs" />
   </ItemGroup>
 
 </Project>
