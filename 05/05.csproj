@@ -20,6 +20,8 @@
     <Compile Remove="05_09.cs" />
     <Compile Remove="05_10.cs" />
     <Compile Remove="05_11.cs" />
+    <Compile Remove="05_12.cs" />
+    <Compile Remove="05_13.cs" />
   </ItemGroup>
 
 </Project>
