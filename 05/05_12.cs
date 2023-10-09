@@ -1,12 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _05
+class MainClass
 {
-    internal class _05_12
+    public static void Main(string[] args)
     {
+        Console.WriteLine("나눌 숫자를 입력하세요. : ");
+        int divider = int.Parse(Console.ReadLine());
+
+        try
+        {
+            Console.WriteLine(10 / divider);
+        } catch {
+            Console.WriteLine("0으로 나눌수 없습니다.");
+        }
     }
 }
