@@ -18,6 +18,11 @@ class MainClass
         }
         Console.WriteLine();
 
+        al.Remove("Hello");
 
+        foreach(var item in al)
+        {
+            Console.WriteLine(item);
+        }
     }
 }
